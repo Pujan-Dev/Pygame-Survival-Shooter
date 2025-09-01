@@ -56,7 +56,7 @@ Make sure you have **Python 3.8+** installed.
 
 ## 📷 Screenshots
 
-## [./game.png](./game.png)
+![Alt text](./game.png)
 
 ## 🚀 Future Improvements
 
